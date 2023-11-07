@@ -1,0 +1,26 @@
+
+body {
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+
+button {
+    background-color: black;
+    padding: 20px;
+    width: 200px;
+    color: whitesmoke;
+    text-align: center;
+    border: 10px double whitesmoke;
+    border-radius: 50px;
+    font-size: 50px;
+    cursor: pointer;
+    margin: 5px;
+}
+
+button:hover {
+    background-color: whitesmoke;
+    color: black;
+}
